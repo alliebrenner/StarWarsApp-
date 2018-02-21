@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Star Wars App</string>
+
+    <string name="title">Movie Name</string>
+    <string name="poster">This is a poster</string>
+    <string name="mainCharacters">Main Character</string>
+    <string name="has_seen">Have seen?</string>
+    <string name="description">Description</string>
+
+
+    <string name="seen_check">Already Seen</string>
+    <string name="want_to_see_check">Want to see</string>
+    <string name="dont_like_check">Do not like</string>
+    <string name="submit_button">SUBMIT</string>
+
+</resources>
